@@ -31,7 +31,6 @@
     "dotenv": "^16.3.1",
     "express": "^4.19.2",
     "file-type": "17.1.6",
-    "ffmpeg-static": "latest",
     "fluent-ffmpeg": "latest",
     "@hapi/boom": "latest",
     "@ffmpeg-installer/ffmpeg": "latest",
